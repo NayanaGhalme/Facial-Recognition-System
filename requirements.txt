@@ -1,0 +1,9 @@
+flask
+flask-login
+opencv-python
+numpy
+pillow
+torch
+facenet-pytorch
+insightface
+onnxruntime
