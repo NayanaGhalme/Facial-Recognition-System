@@ -30,5 +30,4 @@ AI-based system to detect missing persons using facial recognition.
 
 ## 👩‍💻 Developed By
 Nayana Ghalme
-Revati Deshmukh
-Gauri Jadhav
+
