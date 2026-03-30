@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+app.db
+.env
+uploads/
+static/logs/
+dataset/
